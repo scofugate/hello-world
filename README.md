@@ -1,4 +1,4 @@
 # hello-world
-test hello worls
+test hello world
 This is a test of the Peter Griffen Network.  
 Gears will be ground. 
